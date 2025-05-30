@@ -1,0 +1,1 @@
+`struct` is a built-in Python module and does not require separate installation. Therefore, it should not be included in a `requirements.txt` file.
